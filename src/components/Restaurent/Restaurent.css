@@ -1,0 +1,10 @@
+input {
+    margin: 55px;
+    padding: 10px;
+    width: 200px;
+}
+
+.res-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
